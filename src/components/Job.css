@@ -1,0 +1,37 @@
+.red {
+  border: 8px red solid;
+}
+
+.yellow {
+  border: 8px yellow solid;
+}
+
+.green {
+  border: 8px green solid;
+}
+
+.blue {
+  border: 8px blue solid;
+}
+
+.pink {
+  border: 8px pink solid;
+}
+
+.job {
+  width: 300px;
+  height: 300px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.job p {
+  margin: 10px;
+  font-size: 22px;
+}
+
+.job span {
+  margin: 10px;
+}
